@@ -1,0 +1,11 @@
+{
+  "driver": "VER",
+  "layout": "focus",
+  "api_key": "",
+  "device_id": "",
+  "push_every": 10,
+  "duration": 15,
+  "mode": "installation",
+  "installation_id": "f1-live",
+  "tetra": "tetra"
+}
